@@ -69,9 +69,9 @@ The aim is to eliminate manual work, reduce errors, and save time by preparing t
 
 ## 📂 Files Included
 
-- 📘 Excel Macro-Enabled File [Click here to download Portfolio Report Macro Sheet](https://github.com/RamKarthi-Data-Analyst/portfolio-report/blob/main/Portfolio%20Report%20Macro.xlsm)
-- 📂Input Folder [Click here to download Sample Input Folder](https://github.com/RamKarthi-Data-Analyst/portfolio-report/blob/main/Portfolio%20Report.zip)
-- 🌐 HTML Project Page[Click here to view HTML Portfolio](https://github.com/RamKarthi-Data-Analyst/portfolio-report/blob/ed4f9ea374cd7d5aeb59181ac2e2d7402b90656e/portfolio.html)
+- 📘 Excel Macro-Enabled File [Click here to download Portfolio Report Macro Sheet](https://github.com/RamKaarthick-Data-Analyst/Portfolio-Report/blob/main/Portfolio%20Report%20Macro.xlsm)
+- 📂Input Folder [Click here to download Sample Input Folder](https://github.com/RamKaarthick-Data-Analyst/Portfolio-Report/blob/main/Portfolio%20Report.zip)
+- 🌐 HTML Project Page[Click here to view HTML Portfolio](https://github.com/RamKaarthick-Data-Analyst/Portfolio-Report/blob/main/portfolio.html)
 
 ## 💡 Use Case
 
